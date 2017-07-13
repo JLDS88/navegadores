@@ -1,0 +1,49 @@
+.text-center{
+text-align: center;
+}
+.red-text{
+  color: #DF0101;
+}
+.body{
+  padding: 60px 15px;
+}
+.menu{
+  background-color:#34495E;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+.menu-link{
+  color: white;
+  text-decoration: none;
+  width: 33%;
+  display: inline-block;
+}
+.link-descarga{
+  color: black;
+  text-decoration: none;
+}
+.fresca{
+  font-family: 'Fresca', sans-serif;
+}
+.main-container{
+  min-height: 100vh;
+}
+.navegadores img {
+  width: 100px;
+}
+.navegadores h3{
+  font-size: 1.7em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.card{
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+.threeD{
+text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171, 168, 168);
+}
