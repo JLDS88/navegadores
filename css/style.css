@@ -17,6 +17,7 @@ text-align: center;
 }
 .menu-link{
   color: white;
+  margin-right:-4px;
   text-decoration: none;
   width: 33%;
   display: inline-block;
